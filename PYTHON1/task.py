@@ -14,7 +14,7 @@ print(type(a))
 print(type(b))
 print(type(z))
 
-#maths operation
+#maths operation   
 sum1 = a+b
 mul1 = a*b
 print(sum1,mul1)   
